@@ -52,7 +52,7 @@ body {
 }
 .main {
     padding: 73px 55% 140px 0;
-    background: top right no-repeat url(img/mainlmg.svg) ;  
+    background: top right no-repeat url(img/mainlmg.svg);  
 }
 .main__title {
     margin: 0 0 37px 0;
@@ -114,7 +114,7 @@ body {
     }
 }
 @media (min-width: 769px) {
-    .hamburger-menu{
+    .hamburger-menu {
         display: none;
     }
 }
